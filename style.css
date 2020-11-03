@@ -1,0 +1,51 @@
+#container{
+    background: red;
+    height: 80px;
+}
+img{
+    width: 120px;
+}
+#produto{
+    height: 100px;
+}
+#img3{
+    width: 170px; 
+}
+#img4{
+    width: 60px; 
+}
+#espaco{
+    height: 500px;
+}
+#espaco2{
+    height: 400px;
+}
+#espaco3{
+    height: 50px;
+}
+#espaco4{
+    height: 50px;
+}
+#categoria{
+    height: 200px;
+}
+.espaco1{
+    height: 100px;
+}
+
+#imagem{
+    width: 70%;
+}
+#imagemH{
+    width: 35%;
+}
+.cor{
+    color:red;
+}
+#form{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    padding: 6px;
+    border-color: #ecc4c4;
+}
